@@ -1,0 +1,26 @@
+NAME:huoi
+DOB:yhg
+NAME:
+DOB:
+Phone no:
+PLACE:
+NAME:34e2
+DOB:wer
+Phone no:wer
+PLACE:wer
+NAME:ftyu
+DOB:tyu
+Phone no:yr
+PLACE:yu
+NAME:
+DOB:
+Phone no:
+PLACE:
+NAME:kanimozhi
+DOB:26.09.2003
+Phone no:9876543210
+PLACE:mayilai
+NAME:
+DOB:
+Phone no:
+PLACE:
